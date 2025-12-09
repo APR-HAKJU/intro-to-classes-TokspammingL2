@@ -40,7 +40,6 @@ Wasserstand: 400 ml
 
 # TODO: Mache 2x Kaffee mit je 200ml
 
-
 # TODO: Versuche nochmal Kaffee zu machen (sollte fehlschlagen)
 
 
